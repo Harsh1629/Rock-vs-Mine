@@ -1,2 +1,2 @@
 # Rock-vs-Mine
-#Model used: Logistic Regression
+# Model used : Logistic Regression
